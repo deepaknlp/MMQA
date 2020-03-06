@@ -2,6 +2,8 @@
 
 Multi-domain English-Hindi Question Answering Datset.
 
+Kindly fill this [form]()https://goo.gl/forms/5kwfmL0ISuIFZDyI3 if you are downloding/forking the dataset.
+
 ## Details
 
 This multilingual QA dataset is created from the comparable documents of six different domains
